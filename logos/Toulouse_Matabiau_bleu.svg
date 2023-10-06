@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="745"
+   height="517"
+   viewBox="0 0 745 517"
+   sodipodi:docname="Toulouse_Matabiau_bleu.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="Toulouse_Matabiau_bleu.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1010077"
+     inkscape:cx="372.84028"
+     inkscape:cy="258.39966"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <path
+       style="fill:#1f81d3"
+       d="M 268.92846,390.47 C 239.17628,385.83169 214.02121,374.46428 190.57254,355.0615 186.95764,352.07033 184,349.05018 184,348.35005 c 0,-0.70013 1.9125,-1.78632 4.25,-2.41376 58.76691,-15.77442 139.07328,-44.65179 190.58913,-68.53395 4.03653,-1.87129 7.51731,-3.40234 7.73508,-3.40234 0.21777,0 5.17833,-2.25 11.02346,-5 5.84514,-2.75 10.79483,-5 10.99932,-5 0.2045,0 9.21938,-4.275 20.03308,-9.5 10.8137,-5.225 20.32257,-9.5 21.13082,-9.5 1.1989,0 1.34797,1.05903 0.80942,5.75 -4.03499,35.146 -19.8756,68.53785 -44.39717,93.58878 -24.93347,25.47172 -55.12278,40.96233 -89.91656,46.1376 -12.40142,1.8446 -35.47505,1.84149 -47.32812,-0.006 z M 143.64425,288.35727 C 136.55737,269.75622 133.56587,250.01441 134.34672,227 c 0.84949,-25.03783 5.53266,-43.877 16.28243,-65.5 7.67691,-15.442 16.95099,-28.12954 30.34677,-41.51636 22.72187,-22.706668 50.54195,-37.618914 81.52408,-43.698911 11.19653,-2.197229 47.0848,-2.50487 58,-0.497187 54.25447,9.979272 98.93569,46.565148 119.91089,98.185448 1.42401,3.5045 2.58911,6.92447 2.58911,7.59992 0,0.84915 -2.69993,1.34179 -8.75,1.59657 -8.203,0.34544 -9.43765,0.7041 -19.75,5.73736 -59.18525,28.88719 -111.38394,51.96223 -160.53904,70.96815 -38.32992,14.82034 -92.28993,32.88864 -103.58254,34.68421 l -4.12159,0.65535 z"
+       id="path3" />
+  </g>
+</svg>
