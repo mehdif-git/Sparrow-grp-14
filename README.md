@@ -1,7 +1,9 @@
 # Sparrow
 
-<img src="logos/logo%20Sparrow.png">
-<img src="logos/Vega%20Myssil.svg">
+<img src="logos/logo%20Sparrow.png" width="200">
+
+
+<img src="logos/Vega%20Myssil_blanc.png">
 
 ## *"À 380 vous n'même pas encore à la moitié de l'accélération !"* - Etienne le Bolideur
 
